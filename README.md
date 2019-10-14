@@ -23,6 +23,5 @@ Follow this steps
 # 3. DONE !!!!!!
 Afer restoring your device should be iCloud Bypassed 
 
-# 4. Important info
-If you are succesfully iCloud bypass know that you can only update to iOS 8.4.1 but if you update to iOS 9.3.6 you will get iCloud Activation Lock again
+
 
