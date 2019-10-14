@@ -1,5 +1,8 @@
 # Bypass iCloud iPhone 4s using checkm8
 
+# Requirements 
+Hackintosh or real Mac running OS X El Capitan or later
+
 # Warning !!!
 Supported are only devices that are supported with checkm8 BOOTROM EXPLOIT
 
