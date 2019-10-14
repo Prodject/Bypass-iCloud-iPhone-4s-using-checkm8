@@ -17,7 +17,7 @@ Follow this steps
 1. Put your Locked iPhone 4s into DFU Mode 
 2. unzip ipwndfu then open terminal and cd to ipwndfu folder then write ./ipwndfu -p (IT MAY FAIL MANY TIMES JUST KEEP TRYING)
 (IF IT WILL SAY THAT YOUR DEVICE IS NOT SUPPORTED THAT MEANS YOUR DEVICE IS NOT SUPPORTED BY CHECKM8 FOR NOW AND YOUR DEVICE CANT BE ICLOUD BYPASSED FOR NOW OF COURSE)
-3. If your device entered pwndfu succesfully then unzip idevicerestore that you downloaded and again open terminal and cd to idevicerestore folder then write ./idevicerestore -e (DRAG IPSW HERE)
+3. If your device entered pwndfu succesfully then unzip idevicerestore that you downloaded and again open terminal and cd to idevicerestore folder then write ./idevicerestore -e (DRAG MINE CFW IPSW HERE)
 4. Now your device should restore to iOS 6.1.3 CFW 
 
 # 3. DONE !!!!!!
