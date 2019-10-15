@@ -1,4 +1,4 @@
-# Bypass iCloud iPhone 4s using checkm8
+# Bypass iCloud iPhone 4s and iPad 2 using checkm8
 
 # Requirements 
 Hackintosh or real Mac running OS X El Capitan or later
@@ -10,7 +10,7 @@ Supported are only devices that are supported with checkm8 BOOTROM EXPLOIT
 First you need to download some things 
 1. ipwndfu (Mac) - https://github.com/axi0mX/ipwndfu
 2. idevicerestore (Mac) - http://exploit3d.com/Downloads.html
-3. iPhone 4s CFW - http://exploit3d.com/iCloudBypassProject.html
+3. iPhone 4s or iPad 2 CFW - http://exploit3d.com/iCloudBypassProject.html
 
 # 2. iCloud Bypassing
 Follow this steps
